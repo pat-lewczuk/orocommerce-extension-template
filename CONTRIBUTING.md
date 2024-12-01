@@ -9,7 +9,6 @@
 - Wait for review
 - After review and approval your PR will be merged
 
-[//]: # (### How to run static code analyse)
+### How to run static code analyse
 
-[//]: # ()
-[//]: # (We use GrumPHP as a code quality guard. &#40;for more details about GrumPHP [grumphp.yml](./))
+We use GrumPHP as a code quality guard. &#40;for more details about GrumPHP [grumphp.yml](./))
